@@ -1,2 +1,2 @@
 # UnityTanks
-MiniGame with tanks.
+Игра сделанная по Unity-гайду.
